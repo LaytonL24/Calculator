@@ -4,7 +4,7 @@ A simple GUI calculator built with **Python Tkinter**. Supports basic arithmetic
 
 ## Features
 
-# Performs without eval function
+* Performs without eval function
 * Operations: `+  -  ×  ÷  =`
 * Functions: `AC`, `+/-`, `%`, `√`
 * Decimal support
